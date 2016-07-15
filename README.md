@@ -4,15 +4,15 @@ Create the following site w/ Bootstrap
 
 ### Home Page 
 
-![img/home-1400](img/home-1400.png)
+![mockups/home-1400](material_base/mockups/home-1400.png)
 
 ### About Page 
 
-![img/about-1400](img/about-1400.png)
+![mockups/about-1400](material_base/mockups/about-1400.png)
 
 ### Contact Page 
 
-![img/contact-1400](img/contact-1400.png)
+![mockups/contact-1400](material_base/mockups/contact-1400.png)
 
 You have more images of different versions (different resolutions) of these designs at the `material` folder
 
