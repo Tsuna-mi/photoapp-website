@@ -74,17 +74,27 @@ footer{
   padding: 20px 180px;
   background-color: #2e2e2e;
   color: white;
+  text-align: left;
 }
 footer p{
   text-align: right;
 }
-footer #navfooterbar a {
-  color: white;
-  background-color: #2e2e2e;
+footer a {
+  color: #fff;
 }
-footer #navfooterbar a:hover {
-  color: white;
-  background-color: gray;
+footer a:hover{
+  text-decoration: none;
+  color: #00AC9A;
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+footer li {
+  display: inline-block;
+  margin-right: 10px;
+
 }
 
 /* MEDIA QUERIES */
@@ -152,8 +162,7 @@ footer #navfooterbar a:hover {
     }
     .menufooter{            
       text-align: center;
-    }
-  
+    }  
   }
 
   /* Extra Small Devices, Phones */ 
@@ -164,6 +173,9 @@ footer #navfooterbar a:hover {
     #camera{
       border:none;  
       width: 70%;        
-    }
+    }    
+    footer{
+      text-align: center;
+    }    
     
   }  
